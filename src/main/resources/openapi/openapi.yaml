@@ -1,0 +1,5 @@
+openapi: "3.0.0"
+info:
+  description: "Pattern to allow encryption and decryption of values using symmetric encryption"
+  version: "0.1.0_inProgress"
+  title: "Symmetric Encryption"
